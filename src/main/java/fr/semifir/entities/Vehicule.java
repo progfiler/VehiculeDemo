@@ -1,5 +1,8 @@
-package entities;
+package fr.semifir.entities;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Vehicule {
     public String couleur;
     public Float poid;
