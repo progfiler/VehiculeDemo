@@ -8,5 +8,5 @@ Pour installer le projet il suffit de l'integrer à votre IDE
 
 ## Dependency
 
-- Maven
+- Mavenx
 - Spring 
