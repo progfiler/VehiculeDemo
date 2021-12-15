@@ -14,5 +14,4 @@ public class App {
         Vehicule voiture = ctx.getBean(Voiture.class);
         System.out.println(voiture);
     }
-
 }
